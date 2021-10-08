@@ -1,11 +1,13 @@
 {
   "expo": {
     "name": "shopping-cart",
+    "icon": "./assets/shopping-cart-app-icon.png",
     "slug": "shopping-cart",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
   "name": "shopping-cart"
 }
